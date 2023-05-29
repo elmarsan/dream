@@ -6,7 +6,7 @@ Daemon runs in background doing gif frame transitioning.
 ## Usage
 
 1. Compile: `go build`
-2. Run: `/dream`
+2. Run: `./dream`
 3. (Optional) Send stop signal: `./dream -s stop` 
 
 ## Disclarimer
